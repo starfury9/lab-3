@@ -22,3 +22,4 @@
 - Commit 21: update changelog
 - Commit 22: update changelog
 - Commit 23: update changelog
+- Commit 24: update changelog
