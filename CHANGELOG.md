@@ -7,3 +7,4 @@
 - Commit 6: update changelog
 - Commit 7: update changelog
 - Commit 8: update changelog
+- Commit 9: update changelog
